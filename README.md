@@ -18,7 +18,3 @@ Spin the Reels: Press enter to spin the reels and see if you win.
 Collect Winnings: Collect your winnings if you land winning combinations on any of the lines.
 Quit: Press 'q' to quit the game and see how much virtual currency you have left.
 
-Dependencies:
-
-Python 3
-Random module
