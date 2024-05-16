@@ -1,3 +1,5 @@
+Slot_machine
+
 The Simple Slot Machine Game is a basic implementation of a virtual slot machine, allowing users to experience the thrill of spinning the reels and potentially winning virtual rewards. This project serves as a beginner-friendly introduction to game development concepts and randomization algorithms in Python.
 
 
