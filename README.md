@@ -1,9 +1,9 @@
-Slot_machine
+# Slot_machine
 
 The Simple Slot Machine Game is a basic implementation of a virtual slot machine, allowing users to experience the thrill of spinning the reels and potentially winning virtual rewards. This project serves as a beginner-friendly introduction to game development concepts and randomization algorithms in Python.
 
 
-Features:
+# Features:
 
 Spin the Reels: Users can spin the reels of the virtual slot machine and try their luck.
 Multiple Betting Lines: Players can bet on multiple lines to increase their chances of winning.
@@ -12,7 +12,7 @@ Virtual Currency: Utilizes virtual currency to simulate betting and winning, pro
 Simple and Lightweight: The game is designed to be easy to understand and lightweight, suitable for beginners and casual gamers.
 
 
-How to Play:
+# How to Play:
 
 Deposit: Start by depositing virtual currency into your account.
 Place Bets: Choose the number of lines to bet on and the amount to bet per line.
